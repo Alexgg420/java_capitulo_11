@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicios.Ejercicio1",
+            "projectName": "java_capitulo_11_282f81ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicios.Ejercicio2",
+            "projectName": "java_capitulo_11_282f81ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicios.Ejercicio3",
+            "projectName": "java_capitulo_11_282f81ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicios.Ejercicio4",
+            "projectName": "java_capitulo_11_282f81ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stats",
+            "request": "launch",
+            "mainClass": "Stats",
+            "projectName": "java_capitulo_11_282f81ad",
+            "args": "el_quijote.txt"
+        }
+    ]
+}
